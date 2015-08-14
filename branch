@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a parallel version of a repository, where any changes you make on your local repo does not affect the master branch.
