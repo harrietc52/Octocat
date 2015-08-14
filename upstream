@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually, used for, in your own words.
+Upstream is the primary branch on the original repository on GitHub,  where all changes made on local repositories will be pushed to, so that everyone pulling from the same source is working with all the same changes.
